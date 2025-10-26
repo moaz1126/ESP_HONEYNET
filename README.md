@@ -58,10 +58,5 @@ Once uploaded, the ESP32 will create an Access Point (AP) with the configured SS
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. (Placeholder - create a LICENSE file if not present)
-
-
 > Made with ❤️ By Moaz1126
 <sub><i>Made for school project</i></sub>
